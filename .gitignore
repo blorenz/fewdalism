@@ -1,0 +1,8 @@
+/output/
+/idea/
+blog.iml
+*.pid
+Makefile
+*.xml
+.name
+develop_server.sh
